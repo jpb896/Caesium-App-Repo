@@ -1,1 +1,23 @@
-{"time":1768638521,"packages":{"com.jpb.jpb24":{"variants":{"41":{"versionCode":41,"apks":["base.apk"],"apkHashes":["4676bbea0d16320a7f9b75f387994e4e280c9da2c485dfb2c892e96f402afe36"],"apkSizes":[6360488],"apkGzSizes":[5112896],"apkBrSizes":[5022346],"versionName":"4.1","minSdk":27,"label":"jpb24","channel":"alpha"}}}},"fsVerityCerts":{}}
+{
+  "time":1768638521,
+  "packages":
+  {
+    "com.jpb.jpb24":{
+      "variants":{
+        "41":{
+          "versionCode":41,
+          "apks":["base.apk"],
+          "apkHashes":["4676bbea0d16320a7f9b75f387994e4e280c9da2c485dfb2c892e96f402afe36"],
+          "apkSizes":[6360488],
+          "apkGzSizes":[5112896],
+          "apkBrSizes":[5022346],
+          "versionName":"4.1",
+          "minSdk":27,
+          "label":"jpb24",
+          "channel":"alpha"
+        }
+      }
+    }
+  },
+  "fsVerityCerts":{}
+}
